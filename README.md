@@ -84,4 +84,8 @@ This project uses the following Python libraries:
      
 <h2><b>Conclusion </b> </h2>
 This code demonstrates how a basic neural network, when combined with systematic hyperparameter tuning and standard preprocessing, can achieve strong predictive performance even with a small architecture. By exploring different activation functions, learning rates, and hidden layer sizes, the project highlights the importance of model selection in achieving low test error.
+<hr>
+
+<h1> K-means Clustering: </h1> <br>
+
 
